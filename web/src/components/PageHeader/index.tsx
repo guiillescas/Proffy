@@ -8,6 +8,7 @@ import './styles.css'
 
 interface pageHeaderProps {
   title: string
+  description?: string
 }
 
 // Tenho um componente chamado PageHeader, ele é um FunctionComponent (FC) e as propriedades que ele tem são as que estão dentro de "<>"
@@ -23,6 +24,7 @@ const PageHeader: React.FC<pageHeaderProps> = (props) => {
 
       <div className="header-content">
         <strong>{props.title}</strong>
+        { props.description && <p>{props.description}</p>}
 
         {props.children}
       </div>
