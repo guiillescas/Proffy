@@ -21,3 +21,5 @@
 - Borão de ir para a web quando o professor for se inscrever ✓
 - SCROLL EM TODA A PÁGINA DE "Estudar", e não só nos cards 
 - Aumentar área de clique dos botões 
+- Fechar o teclado quando o user clicar em filtrar
+- Criar página de vazio/erro
