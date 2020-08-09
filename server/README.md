@@ -23,3 +23,4 @@
 - Aumentar área de clique dos botões 
 - Fechar o teclado quando o user clicar em filtrar
 - Criar página de vazio/erro
+- Animação do botão de favoritos
