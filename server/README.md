@@ -17,3 +17,7 @@
 - Dark Theme
 - Mudar paleta de cores
 - Animação nos inputs
+- Dia da semana com select (Dica no vídeo do dia 5, 32:22)
+- Borão de ir para a web quando o professor for se inscrever ✓
+- SCROLL EM TODA A PÁGINA DE "Estudar", e não só nos cards 
+- Aumentar área de clique dos botões 
