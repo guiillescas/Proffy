@@ -17,6 +17,7 @@
 .page-header .top-bar-container a {
   height: 3.2rem;
   transition: opacity .2s;
+  fill: white
 }
 
 .page-header .top-bar-container a:hover {

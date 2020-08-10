@@ -8,7 +8,7 @@ import Input from '../../components/Input'
 import Textarea from '../../components/TextArea'
 import Select from '../../components/Select'
 
-import warningIcon from '../../assets/images/icons/warning.svg'
+import warningIcon from '../../assets/images/icons/warningBlue.svg'
 import api from '../../services/api'
 
 export default function TeacherForm() {

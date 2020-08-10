@@ -1,6 +1,6 @@
 # Funcionalidades / Casos de uso
 
-## COnexões
+## Conexões
 
 - Rota para listar o total de conexões realizadas
 - Rota para criar uma nova conexão
@@ -16,7 +16,8 @@
 - Limitar o horário de aulas, para que o aluno só possa marcar a aula 30 min antes do horário final do professor
 - Dark Theme
 - Mudar paleta de cores
-- Animação nos inputs
+
+- Animação nos inputs ✓
 - Dia da semana com select (Dica no vídeo do dia 5, 32:22)
 - Borão de ir para a web quando o professor for se inscrever ✓
 - SCROLL EM TODA A PÁGINA DE "Estudar", e não só nos cards 

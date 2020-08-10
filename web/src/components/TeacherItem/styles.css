@@ -76,6 +76,11 @@
   background: var(--color-secondary-dark);
 }
 
+.teacher-item footer img {
+  width: 16px;
+  height: 16px;
+}
+
 @media (min-width: 700px) {
   .teacher-item header,
   .teacher-item footer {

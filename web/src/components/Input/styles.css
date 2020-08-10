@@ -23,7 +23,7 @@
 }
 
 .input-block:focus-within::after {
- width: calc(100% - 3.2rem);
+ width: 0;
  height: 2px;
  content: '';
  background: var(--color-primary-light);
@@ -31,4 +31,12 @@
  left: 1.6rem;
  right: 1.6rem;
  bottom: 0;
+ transition: .6s all;
+ animation: line .4s forwards;
+}
+
+@keyframes line {
+  100% {
+    width: calc(100% - 3.2rem);
+  }
 }
