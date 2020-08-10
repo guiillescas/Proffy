@@ -5,7 +5,7 @@ import { StyleSheet } from 'react-native'
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#8257E5',
+    backgroundColor: '#345574',
     justifyContent: 'center',
     padding: 40,
   },
@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
 
   description: {
     marginTop: 24,
-    color: '#D4C2FF',
+    color: '#fff',
     fontSize: 16,
     lineHeight: 26,
     fontFamily: 'Poppins_400Regular',
@@ -47,11 +47,11 @@ const styles = StyleSheet.create({
   },
 
   registerButton: {
-    backgroundColor: '#04d361',
+    backgroundColor: '#ff914d',
   },
 
   backButton: {
-    backgroundColor: '#9871f5',
+    backgroundColor: '#457099',
   }
 })
 

@@ -47,7 +47,7 @@ function StudyTabs() {
               <Ionicons 
                 name="ios-easel" 
                 size={size} 
-                color={focused ? '#8257e5' : color} 
+                color={focused ? '#345574' : color} 
               />
             )
           }
@@ -63,7 +63,7 @@ function StudyTabs() {
               <Ionicons 
                 name="ios-heart-empty" 
                 size={size} 
-                color={focused ? '#8257e5' : color} 
+                color={focused ? '#345574' : color} 
               />
             )
           }

@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
 
   priceValue: {
     fontFamily: 'Archivo_700Bold',
-    color: '#8257e5',
+    color: '#345574',
     fontSize: 16,
   },
 
@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
   },
 
   favoriteButton: {
-    backgroundColor: '#8257e5',
+    backgroundColor: '#345574',
     width: 56,
     height: 56,
     borderRadius: 8,

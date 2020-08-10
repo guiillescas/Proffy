@@ -5,7 +5,7 @@ import { StyleSheet } from 'react-native'
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#8257E5',
+    backgroundColor: '#345574',
     justifyContent: 'center',
     padding: 40,
   },
@@ -43,11 +43,11 @@ const styles = StyleSheet.create({
   },
 
   buttonPrimary: {
-    backgroundColor: '#9871f5',
+    backgroundColor: '#457099',
   },
 
   buttonSecondary: {
-    backgroundColor: '#04d361'
+    backgroundColor: '#ff914d'
   },
 
   buttonText: {
@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
 
   totalConnections: {
     fontFamily: 'Poppins_400Regular',
-    color: '#d4c2ff',
+    color: '#fff',
     fontSize: 12,
     lineHeight: 20,
     maxWidth: 140,

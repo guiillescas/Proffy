@@ -2,7 +2,7 @@ import React, { ReactNode } from 'react'
 import { View, Image, Text } from 'react-native'
 import { BorderlessButton } from 'react-native-gesture-handler'
 
-import backIcon from '../../assets/images/icons/back.png'
+import backIcon from '../../assets/images/icons/backGui.png'
 import logoImg from '../../assets/images/logo.png'
 
 import styles from './styles'

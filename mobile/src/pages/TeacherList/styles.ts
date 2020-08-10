@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
   },
 
   label: {
-    color: '#d4c2ff',
+    color: '#fff',
     fontFamily: 'Poppins_400Regular'
   },
 
@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
   },
 
   submitButton: {
-    backgroundColor: '#04d361',
+    backgroundColor: '#ff914d',
     height: 56,
     borderRadius: 8,
     flexDirection: 'row',
