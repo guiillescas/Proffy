@@ -27,27 +27,29 @@ function Favorites() {
   )
   
   return (
-    <View style={styles.container}>
-      <PageHeader title="Meus Proffys favoritos" />
+    <ScrollView>
+      <View style={styles.container}>
+        <PageHeader title="Meus Proffys favoritos" />
 
-      <ScrollView
-        style={styles.teacherList}
-        contentContainerStyle={{
-          paddingHorizontal: 16,
-          paddingBottom: 16,
-        }}
-      >
-        { favorites.map((teacher: Teacher) => {
-          return (
-            <TeacherItem 
-              key={teacher.id}
-              teacher={teacher}
-              favorited
-            />
-          )
-        })}
-      </ScrollView>
-    </View>
+        <ScrollView
+          style={styles.teacherList}
+          contentContainerStyle={{
+            paddingHorizontal: 16,
+            paddingBottom: 16,
+          }}
+        >
+          { favorites.map((teacher: Teacher) => {
+            return (
+              <TeacherItem 
+                key={teacher.id}
+                teacher={teacher}
+                favorited
+              />
+            )
+          })}
+        </ScrollView>
+      </View>
+    </ScrollView>
   )
 }
 
