@@ -8,7 +8,13 @@ const styles = StyleSheet.create({
 
   teacherList: {
     marginTop: -40,
-  }
+  },
+
+  nothingToShow: {
+    color: 'black',
+    fontFamily: 'Archivo_700Bold',
+    fontSize: 16,
+  },  
 })
 
 export default styles

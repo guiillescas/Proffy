@@ -10,6 +10,10 @@ const styles = StyleSheet.create({
     marginTop: -40,
   },
 
+  feather: {
+    padding: 16,
+  },
+
   searchForm: {
     marginBottom: 24,
   },
@@ -34,6 +38,18 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     justifyContent: 'center',
     paddingHorizontal: 16,
+    marginTop: 4,
+    marginBottom: 16,
+  },
+
+  picker: {
+    borderRadius: 8,
+    borderWidth: 0,
+    borderColor: '#fff',
+    overflow: 'hidden',
+    justifyContent: 'center',
+    height: 54,
+    backgroundColor: '#fff',
     marginTop: 4,
     marginBottom: 16,
   },

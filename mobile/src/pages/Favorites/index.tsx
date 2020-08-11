@@ -25,7 +25,7 @@ function Favorites() {
       loadFavorites();
     }, [])
   )
-  
+
   return (
     <ScrollView>
       <View style={styles.container}>
