@@ -32,8 +32,8 @@ function StudyTabs() {
           marginLeft: 16
         },
         inactiveBackgroundColor: '#fafafc',
-        activeBackgroundColor: '#ebebf5',
-        inactiveTintColor: '#c1bccc',
+        activeBackgroundColor: '#ecf7ff',
+        inactiveTintColor: 'rgb(160, 160, 160)',
         activeTintColor: '#32264d'
       }}
     >

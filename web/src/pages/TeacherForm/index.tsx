@@ -119,9 +119,9 @@ function setScheduleItemValue(position: number, field: string, value: string) {
                 { value: 'Ciências', label: 'Ciências' },
                 { value: 'Educação Física', label: 'Educação Física' },
                 { value: 'Geografia', label: 'Geografia' },
-                { value: 'História', label: 'Artes' },
+                { value: 'História', label: 'História' },
                 { value: 'Inglês', label: 'Inglês' },
-                { value: 'Matemática', label: 'Artes' },
+                { value: 'Matemática', label: 'Matemática' },
                 { value: 'Português', label: 'Português' },
                 { value: 'Química', label: 'Química' },
               ]}  

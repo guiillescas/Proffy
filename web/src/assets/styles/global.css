@@ -17,10 +17,11 @@
   --color-line-in-white: #E6E6F0;
   --color-input-background: #F8F8FC;
   --color-button-text: #FFFFFF;
-  --color-box-base: #FFFFFF;
+  --color-box-base: #ffffff;
   --color-box-footer: #FAFAFC;
   --color-green-whatsapp: #04d361;
-  --color-green-whatsapp--secondary: #04bf58;
+
+
 }
 
 * {

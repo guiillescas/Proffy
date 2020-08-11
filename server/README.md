@@ -13,15 +13,11 @@
 
 
 ## Ideias para o projeto
-- Limitar o horário de aulas, para que o aluno só possa marcar a aula 30 min antes do horário final do professor
-- Dark Theme
-- Mudar paleta de cores
-
+- Mudar toda a paleta de cores ✓
 - Animação nos inputs ✓
-- Dia da semana com select (Dica no vídeo do dia 5, 32:22)
-- Borão de ir para a web quando o professor for se inscrever ✓
-- SCROLL EM TODA A PÁGINA DE "Estudar", e não só nos cards 
-- Aumentar área de clique dos botões 
-- Fechar o teclado quando o user clicar em filtrar
-- Criar página de vazio/erro
-- Animação do botão de favoritos
+- Botão de ir para a web quando o professor for se inscrever na página “GiveClasses” no mobile ✓
+- Fazer com que a página “Favorites” e “TeacherList” tivessem scroll em toda a tela, e não somente nos cards ✓
+- Aumentar área de clique dos botões ✓
+- Fechar o teclado quando o user clicar em filtrar (o @Diego fez bem depois, me copiou hahah) ✓
+- Correção de borda ao redor de botões ✓
+- Aplicar select nos inputs de filtros no mobile ✓
