@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
 
   subject: {
     fontFamily: 'Poppins_400Regular',
-    color: '#6a6180',
+    color: 'rgb(110, 110, 110)',
     fontSize: 12,
     marginTop: 4
   },
@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
     fontFamily: 'Poppins_400Regular',
     fontSize: 14,
     lineHeight: 24,
-    color: '#6a6180'
+    color: 'rgb(110, 110, 110)',
   },
 
   footer: {
@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
 
   price: {
     fontFamily: 'Poppins_400Regular',
-    color: '#6a6180',
+    color: 'rgb(110, 110, 110)',
     fontSize: 14,
   },  
 

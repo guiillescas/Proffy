@@ -13,7 +13,9 @@ const styles = StyleSheet.create({
   },
 
   backButton: {
-    padding: 10,
+    paddingTop: 10,
+    paddingRight: 10,
+    paddingBottom: 10,
   },
 
   header: {
