@@ -9,7 +9,7 @@ O Proffy tem a intenção de conectar alunos com professores!
 - Os professores podem se cadastrar, informando as matérias lecionadas, hora/aula, e o dia/horários disponíveis para dar as aulas.
 - Já os alunos, podem filtrar os professores por matéria, dias e horários diferentes!
 
-## Contrução
+## Construção
 
 O Proffy foi desenvolvido com várias tecnologias, sendo elas: 
 
