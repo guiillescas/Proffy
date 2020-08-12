@@ -1,7 +1,6 @@
 <p align="center">
   <img align="center" src="assets/logo.png" />
 </p>
-<h1 align="center">Proffy</h1>
 
 ## Sobre
 O Proffy tem a intenção de conectar alunos com professores! 
