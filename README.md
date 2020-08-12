@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo.png" />
-</p>
+<img align="center" src="assets/logo.png" />
 <h1 align="center">Proffy</h1>
 
 <img src="assets/web-mobile-project-present.png" align="center" />
