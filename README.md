@@ -31,7 +31,7 @@ Para ver e/ou usar o projeto web ou mobile, você precisa seguir os passos abaix
 4. Faça um clone desse repositório, rodando:    
 ```git clone https://github.com/Guillescas/Proffy.git```
 5. Confira se o diretório em que você está é o mesmo da pasta do projeto.
-6. Com o passo 5 ok, rode ```yarn install``` para instalar tudo o que é necessário para rodar o projeto
+6. Com o passo 5 ok, rode ```yarn``` para instalar tudo o que é necessário para rodar o projeto
 7. Rode ```yarn start``` na pasta server.
 8. Caso você queira rodar somente o projeto web, rode ```yarn start``` no diretório web. Para rodar o mobile, rode o mesmo comando anterior na pasta mobile
 
