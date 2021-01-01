@@ -1,6 +1,5 @@
 {
   "name": "web",
-  "homepage": "https://proffy-fv0a0xm15.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
